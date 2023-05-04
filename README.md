@@ -1,8 +1,10 @@
 👋 Hi, I’m @elinaRosato
 
-🔭 I’m currently working on a Vainilla Javascript game: Popping Bubbles (check it out)
+🔭 I’m currently working on a Vainilla JavaScript game: Popping Bubbles (check it out)
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning NodeJS
+
+🎒 My stack: HTML, CSS, JavaScript, React, Python, Haskell, Wordpress, REST. 
 
 🌐 My website: coming soon...
 

@@ -1,16 +1,16 @@
 👋 Hi, I’m @elinaRosato
 
-🔭 I’m currently working on a Vainilla JavaScript game: Popping Bubbles (check it out)
+🔭 I’m studying my Bachelor's in Software Development in 🇸🇪
 
-🌱 I’m currently learning NodeJS
+🌱 I’m currently learning NodeJS and SQL
 
-🎒 My stack: HTML, CSS, JavaScript, React, Python, Haskell, Wordpress, REST. 
+🎒 My stack: HTML, CSS, JavaScript, React, Python, Java and Wordpress. 
 
-🌐 My website: coming soon...
+🌐 My website: elinarosato.com
 
-📫 How to reach me rosatoelina@gmail.com
+📫 How to reach me: rosatoelina@gmail.com
 
-⚡ Fun fact I love dark themes and ramen 😉
+⚡ Fun fact: I love plants, knitting and ramen 😉
 
 <!---
 elinaRosato/elinaRosato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

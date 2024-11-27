@@ -1,10 +1,12 @@
 👋 Hi, I’m @elinaRosato
 
-🔭 I’m studying my Bachelor's in Software Development in 🇸🇪
+🔭 I’m studying my Bachelor's in Computer Science and Engineering in 🇸🇪
 
-🌱 I’m currently learning NodeJS and SQL
+🌱 I’m currently learning C for Embedded Systems
 
-🎒 My stack: HTML, CSS, JavaScript, React, Python, Java and Wordpress. 
+🎒 My stack: Python, Java, React, Node.js, JavaScript, Typescript, SQL, HTML, CSS and Wordpress.
+
+🚧 I'm currently working on a project built with Next.js and Supabase.
 
 🌐 My website: elinarosato.com
 
